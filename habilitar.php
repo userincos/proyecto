@@ -11,6 +11,8 @@
 </head>
 <body>
     <!--Para redireccionar páginas a leer.php: -->
+
+    <!-- sfgdgdg para modificaciones extra-->
     <?php
         $idProducto=$_POST['idProducto'];
        
